@@ -6,8 +6,8 @@ Modelo de site utilizando somente HTML <br/>
 </p>
 
 <p align="center">
-  <a href="#🚀-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💻-projeto---acesse-aqui">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-projeto---acesse-aqui">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - HTML
 
-## 💻 Projeto - [Acesse aqui](https://allanpt.github.io/UnesUniversidade.index.html)
+## 💻 Projeto - [Acesse aqui](https://allanpt.github.io/Unes_Universidade)
 
 Esse projeto tem por conceito aplicar os conhecimentos estudados pela plataforma de ensino Udemy Academy.
 
